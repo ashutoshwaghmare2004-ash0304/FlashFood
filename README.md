@@ -1,6 +1,6 @@
 # 🍔 FlashFood - Complete Food Delivery App
 
-A full-featured food delivery application like Swiggy and Zomato.
+
 
 ## 🎯 Two Versions Available:
 
