@@ -107,81 +107,6 @@ Orders Page → Click "Track Order"
 
 ---
 
-## 🌆 Available Cities - ALL with COMPLETE Variety!
-
-### EVERY City Has ALL These Restaurant Types:
-
-#### 🍕 **Pizza & Italian**
-- Domino's Pizza, Pizza Hut, La Pinoz
-- Margherita, Pepperoni, Pasta, Garlic Bread
-
-#### 🍔 **Burgers & Fast Food**
-- McDonald's, Burger King, Subway
-- Burgers, Fries, Sandwiches, Wraps
-
-#### 🍗 **Chicken & Grills**
-- KFC, Barbeque Nation
-- Fried Chicken, Grilled Items, Kebabs
-
-#### 🍛 **Indian Food**
-- **Biryani:** Paradise, Biryani Blues
-- **South Indian:** Saravana Bhavan, Sangeetha
-- **North Indian:** Punjabi Rasoi, Rajdhani Thali
-- **Street Food:** Chaat Corner, Rollsking
-
-#### 🥡 **Chinese & Asian**
-- Mainland China, Wow! Momo
-- Noodles, Fried Rice, Manchurian, Momos
-
-#### 🍣 **Japanese**
-- Sushi Bar
-- Sushi, Rolls, Japanese specialties
-
-#### 🌮 **Mexican**
-- Taco Bell
-- Tacos, Burritos, Mexican fast food
-
-#### 🐟 **Seafood**
-- Fish & More
-- Fresh fish, Coastal dishes
-
-#### ☕ **Cafes & Coffee**
-- Starbucks, Cafe Coffee Day
-- Coffee, Beverages, Snacks
-
-#### 🍰 **Desserts & Bakery**
-- Baskin Robbins, NIC Ice Creams, Theobroma
-- Ice Cream, Cakes, Pastries
-
-#### 🥗 **Healthy Options**
-- Salad Days
-- Salads, Bowls, Healthy meals
-
-#### 🍽️ **Fine Dining**
-- The Continental
-- Multi-cuisine, Continental
-
----
-
-### 1. **Bangalore** 🏙️
-**Famous Local Dishes:** Masala Dosa, Filter Coffee (but has EVERYTHING!)
-
-### 2. **Mumbai** 🌊
-**Famous Local Dishes:** Vada Pav, Pav Bhaji (but has EVERYTHING!)
-
-### 3. **Pune** 🎓
-**Famous Local Dishes:** Misal Pav, Mastani (but has EVERYTHING!)
-
-### 4. **Delhi** 🏛️
-**Famous Local Dishes:** Chole Bhature, Butter Chicken (but has EVERYTHING!)
-
-### 5. **Hyderabad** 🕌
-**Famous Local Dishes:** Hyderabadi Biryani, Haleem (but has EVERYTHING!)
-
-### 6. **Ahmedabad** 🎨
-**Famous Local Dishes:** Dhokla, Gujarati Thali (but has EVERYTHING!)
-
----
 
 ## 🎯 Key Features
 
@@ -238,28 +163,7 @@ Orders Page → Click "Track Order"
 
 ---
 
-## 📊 Data Overview
 
-### Cities: 6
-- Bangalore, Mumbai, Pune, Delhi, Hyderabad, Ahmedabad
-- **Each city has ALL restaurant types!**
-
-### Restaurants: 150+
-- **25+ restaurant chains** available in EVERY city
-- Domino's, McDonald's, KFC, Burger King, Pizza Hut
-- Starbucks, Baskin Robbins, Subway, Taco Bell
-- Paradise Biryani, Mainland China, Barbeque Nation
-- Saravana Bhavan, Cafe Coffee Day, and more!
-- **Every cuisine in every city!**
-
-### Menu Items: 400+
-- **8-10 items per restaurant**
-- Pizza, Burgers, Chicken, Biryani, Chinese, South Indian
-- North Indian, Mexican, Japanese, Desserts, Coffee
-- Veg & Non-veg options everywhere
-- Complete variety in all cities
-
----
 
 ## 🎨 Pages
 
@@ -491,16 +395,4 @@ npm run build
 
 ---
 
-**🍔 Your Complete Food Delivery App is Ready! 🚀**
 
-Built with ❤️ - Just like Swiggy and Zomato, but better!
-
----
-
-**Version:** 2.0.0  
-**Status:** ✅ Production Ready  
-**Build:** ✅ Successful  
-**Bundle Size:** 92.01 kB (gzipped)  
-**Cities:** 6  
-**Restaurants:** 16  
-**Menu Items:** 35+  
